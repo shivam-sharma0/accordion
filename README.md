@@ -18,3 +18,4 @@ const Component = () => {
   return <FaHome className='icon'></FaHome>;
 };
 ```
+Check mine:- https://accordian-templet.netlify.app/
